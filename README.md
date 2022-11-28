@@ -1,1 +1,1 @@
-# CMS---Prestashop
+# Prestashop
