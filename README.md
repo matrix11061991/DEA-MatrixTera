@@ -64,7 +64,7 @@ rho_C = 1.0
 lambda_s = 1.0
 
 # Conditions initiales
-T_0 = 100.0
+T_0 = 100
 
 # Conditions aux limites
 T_inf = 0.0
