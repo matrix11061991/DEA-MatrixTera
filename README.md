@@ -102,4 +102,4 @@ while True:
     if T[-1] < T_inf:
         break
 ```
-This code solves the differential equation using the finite differences method to approximate the derivatives of T with respect to z and t. The boundary conditions are applied by updating the values of T at the edges of the domain (z = 0 and z = 1). The main loop of the solution consists of updating the solution using the values of T at the interior points of the domain, and then applying the boundary conditions at the edge points.
+This code solves the differential equation using the finite differences method to approximate the derivatives of T with respect to z and t. The boundary conditions are applied by updating the values of T at the edges of the domain (z = 0 and z = 1). The main loop of the solution consists of updating the solution using the values of T at the interior points of the domain, and then applying the boundary conditions at the edge points
